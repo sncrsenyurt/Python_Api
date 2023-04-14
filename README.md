@@ -17,7 +17,7 @@ To install the required packages, run the following command:
 
 ### bash
 
-pip install pandas hvplot requests
+- pip install pandas hvplot requests //
 You can obtain an API key for the Geoapify API from their website: https://www.geoapify.com/
 
 ### Usage
